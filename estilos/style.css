@@ -10,7 +10,6 @@ main{
     height: 100vh;
 }
 iframe{
-    border: 2px solid red;
     margin-top: 80px;
     margin-left: 22px;
     width: 265px;
